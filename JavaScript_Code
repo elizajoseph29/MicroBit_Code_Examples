@@ -1,0 +1,4 @@
+basic.forever(function () {
+    basic.showIcon(IconNames.Butterfly)
+    basic.showNumber(5)
+})
